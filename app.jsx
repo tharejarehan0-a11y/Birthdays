@@ -270,11 +270,11 @@ const FriendshipConnection = () => {
                     You are not just my teacher, but also the mother of one of my only two friends.
                 </p>
                 <div className="friend-circle">
-                    👨‍👩‍👦 Teacher • Mother • Friend's Parent 👨‍👩‍👦
+                    👨‍👩‍👦 Teacher • Friend's Parent 👨‍👩‍👦
                 </div>
                 <p>
                     This dual connection makes everything even more special. You've touched my life 
-                    in multiple ways - through your teaching, through your son's friendship, and 
+                    in multiple ways - through your teaching, through your daughter's friendship, and 
                     through the values you've instilled in both of us.
                 </p>
                 <p>
@@ -345,7 +345,7 @@ const FinalMessage = () => {
                 </p>
                 <div className="signature">
                     With endless gratitude and warmest birthday wishes,<br />
-                    Your Student (and your son's friend)
+                    Your Student (and your daughter's friend)
                 </div>
             </div>
         </div>
